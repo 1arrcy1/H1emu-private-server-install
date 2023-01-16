@@ -28,7 +28,7 @@ hash -r
 git clone https://github.com/QuentinGruber/h1z1-server.git
 cd h1z1-server
 npm install
-export NODE_ENV="production"
+#export NODE_ENV="production"
 export DEBUG="ZoneServer"
 export CLIENT_SIXTEEN="true"
 export WORLD_ID="2"
